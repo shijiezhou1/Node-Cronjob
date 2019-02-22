@@ -26,7 +26,7 @@ cron.schedule("0,30 * * * * *", function() {
 app.listen(1111);
 ```
 
-Run your script
+# Run your script
 ```
  node index.js
 
