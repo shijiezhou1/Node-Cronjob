@@ -1,5 +1,7 @@
 # CRONJOB
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/shijiezhou1/Node-Cronjob.svg)](https://greenkeeper.io/)
+
 ```
 git clone xxx
 ```
