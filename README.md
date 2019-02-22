@@ -1,3 +1,18 @@
+# CRONJOB
+
+```
+git clone xxx
+```
+
+```
+npm install node-cron fs express
+```
+
+```
+touch index,js
+```
+
+```
 const cron = require("node-cron");
 const express = require("express");
 const fs = require("fs");
@@ -9,3 +24,10 @@ cron.schedule("0,30 * * * * *", function() {
 });
 
 app.listen(1111);
+```
+
+Run your script
+```
+ node index.js
+
+```
